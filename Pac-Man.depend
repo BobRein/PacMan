@@ -1,0 +1,1386 @@
+# depslib dependency file v1.0
+1510057305 source:c:\users\gmboh\dropbox\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510057226 c:\users\gmboh\dropbox\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1509140390 c:\users\gmboh\dropbox\pac-man\color.h
+
+1509565077 c:\users\gmboh\dropbox\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1510056886 c:\users\gmboh\dropbox\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1509479631 c:\users\gmboh\dropbox\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1509570532 c:\users\gmboh\dropbox\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1510024890 c:\users\gmboh\dropbox\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1509140419 source:c:\users\gmboh\dropbox\pac-man\color.cpp
+	"color.h"
+
+1510088115 source:c:\users\gmboh\dropbox\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	<stdlib.h>
+
+1509941156 c:\users\gmboh\dropbox\pac-man\game.h
+	"constants.h"
+	"point.h"
+	<time.h>
+
+1510025744 c:\users\gmboh\dropbox\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"point.h"
+	"tile.h"
+
+1509566788 c:\users\gmboh\dropbox\pac-man\tile.h
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1509678237 c:\users\gmboh\dropbox\pac-man\pacman.h
+	"circle.h"
+	"triangle.h"
+
+1509940547 c:\users\gmboh\dropbox\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1509565689 source:c:\users\gmboh\dropbox\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1509565685 c:\users\gmboh\dropbox\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1509915489 source:c:\users\gmboh\dropbox\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1510087942 source:c:\users\gmboh\dropbox\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1509939849 source:c:\users\gmboh\dropbox\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1509565082 source:c:\users\gmboh\dropbox\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1510025173 source:c:\users\gmboh\dropbox\pac-man\rectangle.cpp
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1509479590 source:c:\users\gmboh\dropbox\pac-man\sound.cpp
+
+1509401237 source:c:\users\gmboh\dropbox\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401169 c:\users\gmboh\dropbox\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1510057071 source:c:\users\gmboh\dropbox\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1509678412 source:c:\users\gmboh\dropbox\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1509140419 source:c:\users\hunter\dropbox\projects\cpp\pac-man\color.cpp
+	"color.h"
+
+1509140390 c:\users\hunter\dropbox\projects\cpp\pac-man\color.h
+
+1509565689 source:c:\users\hunter\dropbox\projects\cpp\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1509565685 c:\users\hunter\dropbox\projects\cpp\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1509565077 c:\users\hunter\dropbox\projects\cpp\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1510348470 c:\users\hunter\dropbox\projects\cpp\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1509479631 c:\users\hunter\dropbox\projects\cpp\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1509572244 c:\users\hunter\dropbox\projects\cpp\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1509915489 source:c:\users\hunter\dropbox\projects\cpp\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1509941156 c:\users\hunter\dropbox\projects\cpp\pac-man\game.h
+	"constants.h"
+	"point.h"
+	<time.h>
+
+1509565082 source:c:\users\hunter\dropbox\projects\cpp\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1509479590 source:c:\users\hunter\dropbox\projects\cpp\pac-man\sound.cpp
+
+1509401237 source:c:\users\hunter\dropbox\projects\cpp\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401169 c:\users\hunter\dropbox\projects\cpp\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1509678412 source:c:\users\hunter\dropbox\projects\cpp\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1509940547 c:\users\hunter\dropbox\projects\cpp\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1510345741 source:c:\users\hunter\dropbox\projects\cpp\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510170747 c:\users\hunter\dropbox\projects\cpp\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1510346159 c:\users\hunter\dropbox\projects\cpp\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1510348510 source:c:\users\hunter\dropbox\projects\cpp\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	<stdlib.h>
+
+1510347835 c:\users\hunter\dropbox\projects\cpp\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"point.h"
+	"tile.h"
+
+1510347780 c:\users\hunter\dropbox\projects\cpp\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1510170003 c:\users\hunter\dropbox\projects\cpp\pac-man\pacman.h
+	"circle.h"
+	"triangle.h"
+
+1510349784 source:c:\users\hunter\dropbox\projects\cpp\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1510345149 source:c:\users\hunter\dropbox\projects\cpp\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1510346993 source:c:\users\hunter\dropbox\projects\cpp\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1510347759 source:c:\users\hunter\dropbox\projects\cpp\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1512359724 source:e:\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1512354740 e:\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1512353212 e:\pac-man\color.h
+
+1512353440 e:\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1512357722 e:\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1512359150 e:\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1512351722 e:\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1512358916 e:\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1512359730 source:e:\pac-man\color.cpp
+	"color.h"
+
+1512359780 source:e:\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1512353318 e:\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1512359788 source:e:\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1512353262 e:\pac-man\game.h
+	"constants.h"
+	"button.h"
+	"point.h"
+	<time.h>
+	<string>
+	<sstream>
+	"ghost.h"
+	"image.h"
+	"map.h"
+	"scoreboard.h"
+	"sound.h"
+
+1512359802 source:e:\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1512355046 e:\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"point.h"
+	"ghost.h"
+	"tile.h"
+	"font.h"
+
+1512359030 e:\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1512353412 e:\pac-man\pacman.h
+	<ctime>
+	"circle.h"
+	"triangle.h"
+
+1512353650 e:\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1512359812 source:e:\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1512359848 source:e:\pac-man\sound.cpp
+	"sound.h"
+
+1509401238 source:e:\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401170 e:\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1512359862 source:e:\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1512359872 source:e:\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1512359750 source:e:\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	"font.h"
+	<fstream>
+	<stdlib.h>
+
+1512359820 source:e:\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1512359832 source:e:\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1509140420 source:f:\pac-man\color.cpp
+	"color.h"
+
+1509140390 f:\pac-man\color.h
+
+1510956394 source:f:\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	"font.h"
+	<fstream>
+	<stdlib.h>
+
+1509941156 f:\pac-man\game.h
+	"constants.h"
+	"point.h"
+	<time.h>
+
+1510962304 f:\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1509479632 f:\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1509572246 f:\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1510695996 f:\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1510960562 f:\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"point.h"
+	"tile.h"
+
+1510959632 f:\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1510960384 f:\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1510683138 f:\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1510961526 f:\pac-man\pacman.h
+	<chrono>
+	<ctime>
+	"circle.h"
+	"triangle.h"
+
+1509940548 f:\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1509565690 source:f:\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1509565686 f:\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1509915490 source:f:\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1510695998 source:f:\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1509479590 source:f:\pac-man\sound.cpp
+
+1509401238 source:f:\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401170 f:\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1510953608 source:f:\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1510959650 source:f:\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510961012 source:f:\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1510961620 source:f:\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1510775282 source:f:\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1510960406 source:f:\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510958114 source:f:\pac-man\font.cpp
+	"font.h"
+
+1510958100 f:\pac-man\font.h
+	"constants.h"
+	"point.h"
+
+1510956538 f:\pac-man\characters.h
+
+1512359740 source:e:\pac-man\font.cpp
+	"font.h"
+
+1512359682 e:\pac-man\font.h
+	<cstdlib>
+	<fstream>
+	<sstream>
+	"constants.h"
+	"point.h"
+
+1511895680 source:f:\projects\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510959632 f:\projects\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1512274356 f:\projects\pac-man\color.h
+
+1510695996 f:\projects\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1512328412 f:\projects\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1509479632 f:\projects\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1511986058 f:\projects\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1512256662 f:\projects\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1512274508 source:f:\projects\pac-man\color.cpp
+	"color.h"
+
+1509565690 source:f:\projects\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1509565686 f:\projects\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1512169400 source:f:\projects\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1512275512 f:\projects\pac-man\game.h
+	"constants.h"
+	"button.h"
+	"point.h"
+	<time.h>
+	<string>
+	<sstream>
+	"ghost.h"
+	"image.h"
+	"map.h"
+	"scoreboard.h"
+
+1512330790 source:f:\projects\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1512330134 f:\projects\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"font.h"
+	"ghost.h"
+	"point.h"
+	"tile.h"
+
+1511894542 f:\projects\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1512151942 f:\projects\pac-man\pacman.h
+	<ctime>
+	"circle.h"
+	"triangle.h"
+
+1509940548 f:\projects\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1512170924 source:f:\projects\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1510695998 source:f:\projects\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1512256870 source:f:\projects\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1509479590 source:f:\projects\pac-man\sound.cpp
+
+1509401238 source:f:\projects\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401170 f:\projects\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1511894578 source:f:\projects\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510953608 source:f:\projects\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1512255736 source:f:\projects\pac-man\font.cpp
+	"font.h"
+
+1512329532 source:f:\projects\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	"font.h"
+	<fstream>
+	<stdlib.h>
+
+1512255770 f:\projects\pac-man\font.h
+	<cstdlib>
+	<fstream>
+	<sstream>
+	"constants.h"
+	"point.h"
+
+1511895680 source:e:\projects\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510959632 e:\projects\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1509140390 e:\projects\pac-man\color.h
+
+1510695996 e:\projects\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1512268360 e:\projects\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1509479632 e:\projects\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1511986058 e:\projects\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1512256662 e:\projects\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1509140420 source:e:\projects\pac-man\color.cpp
+	"color.h"
+
+1512255736 source:e:\projects\pac-man\font.cpp
+	"font.h"
+
+1512268494 source:e:\projects\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	"font.h"
+	<fstream>
+	<stdlib.h>
+
+1512268056 e:\projects\pac-man\game.h
+	"constants.h"
+	"button.h"
+	"point.h"
+	<time.h>
+	<string>
+	<sstream>
+	"ghost.h"
+	"image.h"
+	"map.h"
+	"scoreboard.h"
+
+1512233078 e:\projects\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"font.h"
+	"ghost.h"
+	"point.h"
+	"tile.h"
+
+1511894542 e:\projects\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1512151942 e:\projects\pac-man\pacman.h
+	<ctime>
+	"circle.h"
+	"triangle.h"
+
+1509940548 e:\projects\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1512255770 e:\projects\pac-man\font.h
+	<cstdlib>
+	<fstream>
+	<sstream>
+	"constants.h"
+	"point.h"
+
+1509565690 source:e:\projects\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1509565686 e:\projects\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1512169400 source:e:\projects\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1512255858 source:e:\projects\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1512170924 source:e:\projects\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1510695998 source:e:\projects\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1512256870 source:e:\projects\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1509479590 source:e:\projects\pac-man\sound.cpp
+
+1509401238 source:e:\projects\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401170 e:\projects\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1511894578 source:e:\projects\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510953608 source:e:\projects\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1512177106 e:\projects\pac-man\ghost.h
+	"circle.h"
+	<cmath>
+	"pacman.h"
+	"rectangle.h"
+
+1512236188 source:e:\projects\pac-man\ghost.cpp
+	"ghost.h"
+	"map.h"
+	"circle.h"
+
+1511895680 source:c:\users\longh\desktop\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510959632 c:\users\longh\desktop\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1509140390 c:\users\longh\desktop\pac-man\color.h
+
+1510695996 c:\users\longh\desktop\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1512152988 c:\users\longh\desktop\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1509479632 c:\users\longh\desktop\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1511986058 c:\users\longh\desktop\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1510683138 c:\users\longh\desktop\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1509140420 source:c:\users\longh\desktop\pac-man\color.cpp
+	"color.h"
+
+1512147432 source:c:\users\longh\desktop\pac-man\font.cpp
+	"font.h"
+
+1512147384 c:\users\longh\desktop\pac-man\font.h
+	<cstdlib>
+	<fstream>
+	<sstream>
+	"constants.h"
+	"point.h"
+
+1512152508 source:c:\users\longh\desktop\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	"font.h"
+	<fstream>
+	<stdlib.h>
+
+1512150096 c:\users\longh\desktop\pac-man\game.h
+	"constants.h"
+	"point.h"
+	<time.h>
+	<string>
+	<sstream>
+	"ghost.h"
+	"map.h"
+
+1512150544 c:\users\longh\desktop\pac-man\ghost.h
+	"circle.h"
+	<cmath>
+	"pacman.h"
+	"rectangle.h"
+
+1512151941 c:\users\longh\desktop\pac-man\pacman.h
+	<ctime>
+	"circle.h"
+	"triangle.h"
+
+1509940548 c:\users\longh\desktop\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1511998280 c:\users\longh\desktop\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"point.h"
+	"tile.h"
+
+1511894542 c:\users\longh\desktop\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1512152187 source:c:\users\longh\desktop\pac-man\ghost.cpp
+	"ghost.h"
+	"map.h"
+	"circle.h"
+
+1509565690 source:c:\users\longh\desktop\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1509565686 c:\users\longh\desktop\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1512150102 source:c:\users\longh\desktop\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1512152688 source:c:\users\longh\desktop\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1510695998 source:c:\users\longh\desktop\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1510775282 source:c:\users\longh\desktop\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1509479590 source:c:\users\longh\desktop\pac-man\sound.cpp
+
+1509401238 source:c:\users\longh\desktop\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401170 c:\users\longh\desktop\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1511894578 source:c:\users\longh\desktop\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1510953608 source:c:\users\longh\desktop\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1512152051 source:c:\users\longh\desktop\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1512328618 source:f:\projects\pac-man\ghost.cpp
+	"ghost.h"
+	"map.h"
+	"circle.h"
+
+1512328544 f:\projects\pac-man\ghost.h
+	"circle.h"
+	<cmath>
+	"pacman.h"
+	"rectangle.h"
+
+1512359722 source:c:\users\hunter\desktop\pac-man\circle.cpp
+	"circle.h"
+	"constants.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1512354739 c:\users\hunter\desktop\pac-man\circle.h
+	<cmath>
+	"color.h"
+	"point.h"
+
+1512353212 c:\users\hunter\desktop\pac-man\color.h
+
+1512353440 c:\users\hunter\desktop\pac-man\point.h
+	<cmath>
+	"constants.h"
+
+1512357721 c:\users\hunter\desktop\pac-man\constants.h
+	"color.h"
+	"sound.h"
+	<string>
+
+1512359149 c:\users\hunter\desktop\pac-man\sound.h
+	"SDL_Plotter.h"
+	<string>
+
+1512351721 c:\users\hunter\desktop\pac-man\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1512358914 c:\users\hunter\desktop\pac-man\rectangle.h
+	"constants.h"
+	"color.h"
+	"point.h"
+
+1512359728 source:c:\users\hunter\desktop\pac-man\color.cpp
+	"color.h"
+
+1512359738 source:c:\users\hunter\desktop\pac-man\font.cpp
+	"font.h"
+
+1512359680 c:\users\hunter\desktop\pac-man\font.h
+	<cstdlib>
+	<fstream>
+	<sstream>
+	"constants.h"
+	"point.h"
+
+1512359759 source:c:\users\hunter\desktop\pac-man\ghost.cpp
+	"ghost.h"
+	"map.h"
+	"circle.h"
+
+1512353274 c:\users\hunter\desktop\pac-man\ghost.h
+	"circle.h"
+	<cmath>
+	"pacman.h"
+	"rectangle.h"
+
+1512353412 c:\users\hunter\desktop\pac-man\pacman.h
+	<ctime>
+	"circle.h"
+	"triangle.h"
+
+1512353650 c:\users\hunter\desktop\pac-man\triangle.h
+	"color.h"
+	"point.h"
+
+1512355044 c:\users\hunter\desktop\pac-man\map.h
+	"constants.h"
+	<fstream>
+	<string>
+	<time.h>
+	<vector>
+	"circle.h"
+	"point.h"
+	"ghost.h"
+	"tile.h"
+	"font.h"
+
+1512359028 c:\users\hunter\desktop\pac-man\tile.h
+	"circle.h"
+	"constants.h"
+	"point.h"
+	"rectangle.h"
+
+1512359779 source:c:\users\hunter\desktop\pac-man\line.cpp
+	"line.h"
+	"SDL_Plotter.h"
+
+1512353318 c:\users\hunter\desktop\pac-man\line.h
+	"color.h"
+	"point.h"
+
+1512359786 source:c:\users\hunter\desktop\pac-man\main.cpp
+	<iostream>
+	"game.h"
+
+1512353262 c:\users\hunter\desktop\pac-man\game.h
+	"constants.h"
+	"button.h"
+	"point.h"
+	<time.h>
+	<string>
+	<sstream>
+	"ghost.h"
+	"image.h"
+	"map.h"
+	"scoreboard.h"
+	"sound.h"
+
+1512359800 source:c:\users\hunter\desktop\pac-man\map.cpp
+	"map.h"
+	"SDL_Plotter.h"
+	"pacman.h"
+	<stdlib.h>
+
+1512359811 source:c:\users\hunter\desktop\pac-man\pacman.cpp
+	"pacman.h"
+	"map.h"
+	"rectangle.h"
+
+1512359818 source:c:\users\hunter\desktop\pac-man\point.cpp
+	"point.h"
+	"color.h"
+	"SDL_Plotter.h"
+
+1512359830 source:c:\users\hunter\desktop\pac-man\rectangle.cpp
+	"circle.h"
+	"rectangle.h"
+	"line.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+
+1512359847 source:c:\users\hunter\desktop\pac-man\sound.cpp
+	"sound.h"
+
+1509401238 source:c:\users\hunter\desktop\pac-man\strdraw.cpp
+	"strdraw.h"
+
+1509401170 c:\users\hunter\desktop\pac-man\strdraw.h
+	"SDL_Plotter.h"
+	"point.h"
+	"color.h"
+
+1512359861 source:c:\users\hunter\desktop\pac-man\tile.cpp
+	"tile.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+
+1512359870 source:c:\users\hunter\desktop\pac-man\triangle.cpp
+	"triangle.h"
+	"line.h"
+	"SDL_Plotter.h"
+
+1512359749 source:c:\users\hunter\desktop\pac-man\game.cpp
+	"game.h"
+	"map.h"
+	"pacman.h"
+	"SDL_Plotter.h"
+	"triangle.h"
+	"font.h"
+	<fstream>
+	<stdlib.h>
+
+1512359840 source:c:\users\hunter\desktop\pac-man\scoreboard.cpp
+	"scoreboard.h"
+
+1512358797 c:\users\hunter\desktop\pac-man\scoreboard.h
+	"constants.h"
+	"font.h"
+	"pacman.h"
+	"rectangle.h"
+	<fstream>
+	<string>
+	<iomanip>
+
+1512251192 e:\projects\pac-man\scoreboard.h
+	"constants.h"
+	"font.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1512255894 source:e:\projects\pac-man\scoreboard.cpp
+	"scoreboard.h"
+
+1512262676 e:\projects\pac-man\image.h
+	<fstream>
+	"color.h"
+	"point.h"
+	"SDL_Plotter.h"
+
+1512262706 source:e:\projects\pac-man\image.cpp
+	"image.h"
+
+1512262676 f:\projects\pac-man\image.h
+	<fstream>
+	"color.h"
+	"point.h"
+	"SDL_Plotter.h"
+
+1512274706 f:\projects\pac-man\scoreboard.h
+	"constants.h"
+	"font.h"
+	"pacman.h"
+	"rectangle.h"
+	"SDL_Plotter.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1512262706 source:f:\projects\pac-man\image.cpp
+	"image.h"
+
+1512275362 source:f:\projects\pac-man\scoreboard.cpp
+	"scoreboard.h"
+
+1512353288 c:\users\hunter\desktop\pac-man\image.h
+	<fstream>
+	"color.h"
+	"point.h"
+	"SDL_Plotter.h"
+
+1512359768 source:c:\users\hunter\desktop\pac-man\image.cpp
+	"image.h"
+
+1512359715 source:c:\users\hunter\desktop\pac-man\button.cpp
+	"button.h"
+
+1512353034 c:\users\hunter\desktop\pac-man\button.h
+	"color.h"
+	"font.h"
+	"point.h"
+	"rectangle.h"
+
+1512260414 e:\projects\pac-man\button.h
+	"color.h"
+	"font.h"
+	"point.h"
+	"rectangle.h"
+
+1512260480 source:e:\projects\pac-man\button.cpp
+	"button.h"
+
+1512260480 source:f:\projects\pac-man\button.cpp
+	"button.h"
+
+1512260414 f:\projects\pac-man\button.h
+	"color.h"
+	"font.h"
+	"point.h"
+	"rectangle.h"
+
+1512359716 source:e:\pac-man\button.cpp
+	"button.h"
+
+1512353034 e:\pac-man\button.h
+	"color.h"
+	"font.h"
+	"point.h"
+	"rectangle.h"
+
+1512353274 e:\pac-man\ghost.h
+	"circle.h"
+	<cmath>
+	"pacman.h"
+	"rectangle.h"
+
+1512353288 e:\pac-man\image.h
+	<fstream>
+	"color.h"
+	"point.h"
+	"SDL_Plotter.h"
+
+1512358798 e:\pac-man\scoreboard.h
+	"constants.h"
+	"font.h"
+	"pacman.h"
+	"rectangle.h"
+	<fstream>
+	<string>
+	<iomanip>
+
+1512359760 source:e:\pac-man\ghost.cpp
+	"ghost.h"
+	"map.h"
+	"circle.h"
+
+1512359770 source:e:\pac-man\image.cpp
+	"image.h"
+
+1512361858 source:e:\pac-man\scoreboard.cpp
+	"scoreboard.h"
+
